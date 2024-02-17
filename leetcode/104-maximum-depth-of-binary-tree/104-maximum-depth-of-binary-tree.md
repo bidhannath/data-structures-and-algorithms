@@ -37,8 +37,7 @@ There can be two approaches to solve this problem which as listed below.
 
 #### Code
 
-Coming soon
-<!-- [104. Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree-using-bfs.js) -->
+[104. Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree-using-bfs.js)
 
 ## Complexity Analysis
 
